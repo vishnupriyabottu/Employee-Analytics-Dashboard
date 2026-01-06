@@ -31,3 +31,20 @@ The dashboard is designed to support HR teams and leadership in data-driven deci
 ---
 
 ## 📁 Project Structure
+
+Project Structure
+│
+├── data/
+│   └── employee_data.csv
+│
+├── dashboard/
+│   └── Employee_Analytics_Dashboard.pbix
+│
+├── screenshots/
+│   ├── executive_overview.png
+│   ├── salary_bonus_analysis.png
+│   ├── hiring_trend_analysis.png
+│   └── senior_management_analysis.png
+│
+└── README.md
+
